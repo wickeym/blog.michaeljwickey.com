@@ -1,8 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91b7f395-a318-43ca-8e0d-c13ac41247b6/deploy-status)](https://app.netlify.com/sites/playful-pie-946e1f/deploys)
 ![Netlify Next.js Blog Template designed by Bejamas](https://user-images.githubusercontent.com/43764894/223762618-62742b4e-9424-44a7-8e85-9f7e4e19db54.png)
 
-
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
-
 
 A customizable blog starter using:
 
@@ -17,7 +16,7 @@ A customizable blog starter using:
 
 [Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=63QZHs259dY)
 
-## Table of Contents:
+## Table of Contents
 
 - [Getting Started](#getting-started)
   - [Setting Up Locally](#setting-up-locally)
@@ -75,7 +74,7 @@ Here are the variables you can edit:
 
 All of the env variables can be configured through the [Wizard](https://nextjs-wizard.netlify.app/) or through setting the project's environment variables. You can do this in your Netlify dashaboard (Site settings/Build & deploy/Environment/Environment variables).
 
-https://user-images.githubusercontent.com/3611928/153997545-6dcdeef0-e570-49e7-93d6-ce0d393d16c9.mp4
+<https://user-images.githubusercontent.com/3611928/153997545-6dcdeef0-e570-49e7-93d6-ce0d393d16c9.mp4>
 
 [alt: video walkthrough of editing env vars]
 
@@ -90,7 +89,7 @@ All posts are stored in `/posts` directory. To make a new post, create a new fil
 
 Since the posts are written in `MDX` format you can pass props and components. That means you can use [React components](https://reactjs.org/docs/components-and-props.html) inside your posts to make them more interactive. Learn more about how to do so in the [MDX docs on content](https://mdxjs.com/docs/using-mdx/#components).
 
-https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-93ed-922d11187073.mp4
+<https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-93ed-922d11187073.mp4>
 
 [alt: video walkthrough of adding a new blog post]
 
