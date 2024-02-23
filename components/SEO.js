@@ -6,7 +6,7 @@ export default function SEO({ title, description }) {
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta property="og:title" content={title} />
-      <link rel="icon" type="image/x-icon" href="./assets/favicon.ico" />
+      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     </Head>
   );
 }
